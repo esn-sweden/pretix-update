@@ -20,7 +20,7 @@ chmod +x update_pretix.sh
 Install to system path
 
 ```sh
-sudo ln -s $(pwd)/update-pretix.sh /usr/local/bin/pretix-update
+sudo ln -s $(pwd)/update_pretix.sh /usr/local/bin/pretix-update
 ```
 
 ## Usage
