@@ -2,6 +2,8 @@
 
 A script to automate updates of Pretix
 
+Remember to also read the [update notes](https://docs.pretix.eu/self-hosting/updates/)
+
 ## Installation
 
 Clone the repository
